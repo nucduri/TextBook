@@ -1,0 +1,19 @@
+
+1. 첫단계 레포지터리 생성
+
+    origin : cloud
+    master: pc local
+
+   PC에 폴더 생성 
+   폴더에서 git bash here 실행
+   git init                                                  //로컬폴더 초기화
+   git remote add origin 레포지터리주소        //로컬폴더와 origin 연결
+
+2. 수정할 경우
+   (git pull origin master)                            //origin에서 다운로드
+
+   git status                                              //변경상태 확인
+   git add .                                               //모든 파일 갱신 연결
+   git commit -m "****"                              //수정본 이름 입력
+   git push origin master                            //origin으로 업로드
+

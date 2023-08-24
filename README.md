@@ -3,11 +3,7 @@
 2023.08.10 시작하였으며 전반적인 테스트와 사용방법을 정리하기 위한 레포지토리이며
 지속적인 업데이트를 가질 예정
 
-
-(https://github.blog/wp-content/uploads/2021/08/GitHub-Global-Campus_social-card.png?resize=1200%2C630)
+![Welcome to GITHUB Banner](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CWFkh5z8oa6dZfn5_gkKKQ.jpeg?resize=1200%2C630)
 
 ## 공지사항
-
-
-## Notifications
-Click the Watch button at the top of the page and select your [notification preferences](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository). It is recommended that you receive notifications for new Discussions.
+일단 같이 한번 해보자구!!!
